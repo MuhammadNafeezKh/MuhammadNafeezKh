@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I'm currently working on → SMK TI Bazma <br>👯 I'm looking to collaborate on → Bootcamp projects / Web development projects<br>🤝 I'm looking for help with → Advanced JavaScript / Backend development (???)<br>🌱 I'm currently learning → Bahasa Jepang & bahasa asing lainnya<br>💬 Ask me about → UI/UX Design, Front-end development, MBTI (INFJ-T)<br>⚡ Fun fact → I'm an INFJ-T who speaks 6 languages! / I can code in 5+ programming languages but still learning Japanese!
+🔭 I'm currently Studying 
+on → SMK TI Bazma <br>👯 I'm looking to collaborate on → Bootcamp projects / Web development projects<br>🤝 I'm looking for help with → Advanced JavaScript / Backend development (???)<br>🌱 I'm currently learning → Bahasa Jepang & bahasa asing lainnya<br>💬 Ask me about → UI/UX Design, Front-end development, MBTI (INFJ-T)<br>⚡ Fun fact → I'm an INFJ-T who speaks 6 languages! / I can code in 5+ programming languages but still learning Japanese!
 
 
 ## 🌐 Socials:
