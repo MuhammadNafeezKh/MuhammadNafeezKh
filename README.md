@@ -1,23 +1,32 @@
 # 👋 Hi, I'm Muhammad Nafis
 
-🚀 **Web Developer & IT Student** passionate about building modern, scalable, and user-centered digital experiences.
+🚀 **Global Web Developer with a Japanese Career Vision**  
+Building scalable, modern, and user-centered digital products using the JavaScript ecosystem.
+
+---
+
+## 🌍 Career Direction
+
+🇯🇵 Preparing for opportunities in the Japanese tech industry  
+🌏 Open to global collaboration & remote-first engineering teams  
+🎯 Focused on becoming a production-ready Fullstack JavaScript Engineer  
 
 ---
 
 ## 🧠 About Me
 
-🔭 Currently studying at **SMK TI Bazma**  
-👯 Open to collaborating on **bootcamp projects & real-world web development projects**  
-🤝 Seeking mentorship in **advanced JavaScript architecture & backend system design**  
-🌱 Currently learning **Japanese** and expanding my multilingual communication skills  
-💬 Ask me about **UI/UX Design, Frontend Architecture, and MBTI (INFJ-T)**  
-⚡ Fun fact: I'm an **INFJ-T** who speaks 6 languages and codes in 5+ programming languages — and I’m still leveling up every day.
+🔭 IT student at **SMK TI Bazma**, specializing in Web Engineering  
+⚙️ Strong interest in frontend architecture and scalable backend systems  
+📚 Continuously improving system design, clean code principles, and backend patterns  
+🌱 Actively strengthening professional Japanese (日本語) for working environments  
+💬 Interested in UI/UX thinking, frontend scalability, and cross-cultural tech collaboration  
+⚡ INFJ-T developer combining analytical thinking with design sensitivity  
 
 ---
 
-# 🛠 Tech Stack
+# 🛠 Technical Expertise
 
-## 🎨 Frontend Development
+## 🎨 Frontend Engineering
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -30,9 +39,15 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 </p>
 
+**Focus Areas**
+- Component-based architecture  
+- Responsive & adaptive design systems  
+- SPA & SSR applications  
+- Clean UI implementation  
+
 ---
 
-## ⚙️ Backend Development
+## ⚙️ Backend Engineering
 
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -42,6 +57,12 @@
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7"/>
 </p>
+
+**Focus Areas**
+- REST API development  
+- Database schema design  
+- Authentication systems  
+- Deployment & serverless workflows  
 
 ---
 
@@ -64,6 +85,15 @@
 
 ---
 
+# 🇯🇵 日本市場に向けて
+
+モダンなフロントエンド技術とスケーラブルなバックエンド設計に注力しています。  
+将来的に日本のIT企業でエンジニアとして活躍することを目標に、技術力と言語力の両方を高めています。  
+
+グローバルな視点を持ちながら、日本の開発文化にも適応できるエンジニアを目指しています。
+
+---
+
 # 📊 GitHub Analytics
 
 ![](https://github-readme-stats.vercel.app/api?username=MuhammadNafeezKh&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
@@ -71,17 +101,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=MuhammadNafeezKh&theme=dark&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadNafeezKh&theme=dark&hide_border=false&layout=compact)
-
----
-
-# 🧠 自己紹介
-
-🔭 現在、SMK TI BazmaでITを専攻しています。  
-👯 ブートキャンプやWeb開発プロジェクトでのコラボレーションに積極的です。  
-🤝 高度なJavaScript設計やバックエンドアーキテクチャについてさらに深く学びたいと考えています。  
-🌱 日本語をはじめ、さまざまな外国語を勉強中です。  
-💬 UI/UXデザイン、フロントエンド開発、そしてMBTI（INFJ-T）についてぜひ話しましょう。  
-⚡ 6か国語を話せるINFJ-Tタイプ。5以上のプログラミング言語を扱えますが、まだまだ成長の途中です。
 
 ---
 
